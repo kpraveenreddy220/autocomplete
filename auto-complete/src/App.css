@@ -1,0 +1,31 @@
+.root{
+  display: flex;
+}
+.App{
+  display:flex;
+ margin: auto;
+  
+}
+
+.city{
+ margin:50px
+  
+}
+.results{
+  width:"100px";
+  
+ 
+}
+
+.results .cities{
+  cursor: pointer;
+  border: 1px solid darkgray ;
+  padding: 3px;
+  border-radius: 10px;
+  margin-top: 5px;
+  
+}
+
+.results span{
+  margin: 10px;
+}
